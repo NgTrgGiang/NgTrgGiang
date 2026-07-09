@@ -46,23 +46,23 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 
 **Core / RAG**
 &nbsp;
-![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat&logo=python&logoColor=34d399)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0b?style=flat&logo=langchain&logoColor=34d399)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0b?style=flat&logo=openai&logoColor=34d399)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0a0b?style=flat&logo=huggingface&logoColor=34d399)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0b?style=flat&logo=pytorch&logoColor=34d399)
+[![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat&logo=python&logoColor=34d399)](https://www.python.org)
+[![LangChain](https://img.shields.io/badge/LangChain-0a0a0b?style=flat&logo=langchain&logoColor=34d399)](https://www.langchain.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0b?style=flat&logo=openai&logoColor=34d399)](https://openai.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0a0b?style=flat&logo=huggingface&logoColor=34d399)](https://huggingface.co)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0b?style=flat&logo=pytorch&logoColor=34d399)](https://pytorch.org)
 
 **Data / Infra**
 &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0b?style=flat&logo=fastapi&logoColor=34d399)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0b?style=flat&logo=postgresql&logoColor=34d399)
-![Docker](https://img.shields.io/badge/Docker-0a0a0b?style=flat&logo=docker&logoColor=34d399)
-![Render](https://img.shields.io/badge/Render-0a0a0b?style=flat&logo=render&logoColor=34d399)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0b?style=flat&logo=fastapi&logoColor=34d399)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0b?style=flat&logo=postgresql&logoColor=34d399)](https://www.postgresql.org)
+[![Docker](https://img.shields.io/badge/Docker-0a0a0b?style=flat&logo=docker&logoColor=34d399)](https://www.docker.com)
+[![Render](https://img.shields.io/badge/Render-0a0a0b?style=flat&logo=render&logoColor=34d399)](https://render.com)
 
 **Automation**
 &nbsp;
-![n8n](https://img.shields.io/badge/n8n-0a0a0b?style=flat&logo=n8n&logoColor=34d399)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat&logo=javascript&logoColor=34d399)
+[![n8n](https://img.shields.io/badge/n8n-0a0a0b?style=flat&logo=n8n&logoColor=34d399)](https://n8n.io)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat&logo=javascript&logoColor=34d399)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
