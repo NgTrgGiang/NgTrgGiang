@@ -31,6 +31,17 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 
 ---
 
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Company Policy RAG](https://github.com/NgTrgGiang/demo-rag-noi-quy-cong-ty)** | RAG assistant that answers company-regulation questions in Vietnamese, with source citations. | `RAG` `ChromaDB` `OpenAI` `Streamlit` |
+| **[GraphRAG vs Flat RAG](https://github.com/NgTrgGiang/2A202600624-NguyenTruongGiang-Day19)** | LLM triple extraction into a Neo4j knowledge graph, 2-hop querying vs a ChromaDB baseline, scored on a 20-question benchmark. | `GraphRAG` `Neo4j` `ChromaDB` `LLM` |
+| **[TrustFed](https://github.com/NgTrgGiang/trustfed-federated-llm)** | Federated LoRA fine-tuning of an LLM, privacy by design: non-IID data and user-level differential privacy. | `LoRA` `Federated` `PyTorch` `DP` |
+| **[dev-starter](https://github.com/NgTrgGiang/dev-starter)** | Full-stack AI app skeleton: FastAPI + Postgres/pgvector + React/Vite/TS + Docker. | `FastAPI` `pgvector` `React` `Docker` |
+
+---
+
 ### Tech stack
 
 **Core / RAG**
@@ -52,6 +63,18 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 &nbsp;
 ![n8n](https://img.shields.io/badge/n8n-0a0a0b?style=flat&logo=n8n&logoColor=34d399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0b?style=flat&logo=javascript&logoColor=34d399)
+
+---
+
+### Recent activity
+
+<!-- RECENT:START -->
+- **[demo-rag-noi-quy-cong-ty](https://github.com/NgTrgGiang/demo-rag-noi-quy-cong-ty)** &nbsp; [DEMO] Hệ thống RAG cho nội quy công ty &nbsp; `updated 2026-07-09`
+- **[dev-starter](https://github.com/NgTrgGiang/dev-starter)** &nbsp; Khung xương full-stack AI app: FastAPI + Postgres/pgvector + React/Vite/TS + Docker &nbsp; `updated 2026-07-08`
+- **[trustfed-federated-llm](https://github.com/NgTrgGiang/trustfed-federated-llm)** &nbsp; TrustFed: federated LoRA fine-tuning of a pre-trained LLM (privacy-by-design, non-IID, user-level DP) + research proposal for an RA application. &nbsp; `updated 2026-07-02`
+- **[IDSnap](https://github.com/NgTrgGiang/IDSnap)** &nbsp; JavaScript project &nbsp; `updated 2026-06-01`
+- **[AI20K-001-083](https://github.com/NgTrgGiang/AI20K-001-083)** &nbsp; No description yet &nbsp; `updated 2026-05-30`
+<!-- RECENT:END -->
 
 ---
 
