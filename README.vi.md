@@ -1,22 +1,21 @@
-<div align="center">
-
 <a href="https://github.com/NgTrgGiang/NgTrgGiang/blob/main/README.md">English</a> &nbsp;·&nbsp; <b>Tiếng Việt</b>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=640&height=52&lines=Nguy%E1%BB%85n+Tr%C6%B0%E1%BB%9Dng+Giang;K%E1%BB%B9+s%C6%B0+AI+%2F+LLM+%C2%B7+Chuy%C3%AAn+RAG;T%E1%BB%AB+prototype+%C4%91%E1%BA%BFn+s%E1%BA%A3n+ph%E1%BA%A9m" alt="Nguyen Truong Giang - Ky su AI/LLM, chuyen RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&vCenter=true&width=520&height=52&lines=Nguy%E1%BB%85n+Tr%C6%B0%E1%BB%9Dng+Giang;K%E1%BB%B9+s%C6%B0+AI+%2F+LLM+%C2%B7+Chuy%C3%AAn+RAG;T%E1%BB%AB+prototype+%C4%91%E1%BA%BFn+s%E1%BA%A3n+ph%E1%BA%A9m" alt="Nguyen Truong Giang - Ky su AI/LLM, chuyen RAG" />
 </a>
 
 <p><b>Mình xây dựng AI RAG chạy được thật.</b><br/>
-<sub>Kỹ sư AI/LLM (mid-level). Mình đưa hệ thống RAG từ prototype lên production.</sub></p>
-
-<p>Đang tìm cơ hội &nbsp;·&nbsp; Việt Nam</p>
+<sub>Kỹ sư AI/LLM (mid-level). Đưa hệ thống RAG từ prototype lên production. Đang tìm cơ hội, ở Việt Nam.</sub></p>
 
 <p>
-  <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" /></a>
-  <a href="https://github.com/NgTrgGiang"><img src="https://img.shields.io/badge/GitHub-0a0a0b?style=flat&logo=github&logoColor=34d399" alt="GitHub" /></a>
+  <a href="https://github.com/NgTrgGiang"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=github&logoColor=34d399" alt="GitHub" height="26" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ngtruonggiang/"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=linkedin&logoColor=34d399" alt="LinkedIn" height="26" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/giang.6064"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=facebook&logoColor=34d399" alt="Facebook" height="26" /></a>
+  &nbsp;
+  <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" height="26" /></a>
 </p>
-
-</div>
 
 ---
 

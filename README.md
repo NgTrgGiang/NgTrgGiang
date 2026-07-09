@@ -1,22 +1,21 @@
-<div align="center">
-
 <b>English</b> &nbsp;·&nbsp; <a href="https://github.com/NgTrgGiang/NgTrgGiang/blob/main/README.vi.md">Tiếng Việt</a>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=640&height=52&lines=Nguyen+Truong+Giang;AI+%2F+LLM+Engineer+%C2%B7+RAG+specialist;From+prototype+to+production" alt="Nguyen Truong Giang - AI/LLM Engineer, RAG specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&vCenter=true&width=520&height=52&lines=Nguyen+Truong+Giang;AI+%2F+LLM+Engineer+%C2%B7+RAG+specialist;From+prototype+to+production" alt="Nguyen Truong Giang - AI/LLM Engineer, RAG specialist" />
 </a>
 
 <p><b>I build retrieval-augmented AI that ships.</b><br/>
-<sub>Mid-level AI/LLM Engineer. I take RAG systems from prototype to production.</sub></p>
-
-<p>Open to work &nbsp;·&nbsp; Based in Vietnam</p>
+<sub>Mid-level AI/LLM Engineer. RAG systems from prototype to production. Open to work, based in Vietnam.</sub></p>
 
 <p>
-  <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" /></a>
-  <a href="https://github.com/NgTrgGiang"><img src="https://img.shields.io/badge/GitHub-0a0a0b?style=flat&logo=github&logoColor=34d399" alt="GitHub" /></a>
+  <a href="https://github.com/NgTrgGiang"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=github&logoColor=34d399" alt="GitHub" height="26" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ngtruonggiang/"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=linkedin&logoColor=34d399" alt="LinkedIn" height="26" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/giang.6064"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=facebook&logoColor=34d399" alt="Facebook" height="26" /></a>
+  &nbsp;
+  <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" height="26" /></a>
 </p>
-
-</div>
 
 ---
 
