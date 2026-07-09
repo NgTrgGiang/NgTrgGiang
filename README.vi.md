@@ -1,15 +1,15 @@
 <div align="center">
 
-<b>English</b> &nbsp;·&nbsp; <a href="https://github.com/NgTrgGiang/NgTrgGiang/blob/main/README.vi.md">Tiếng Việt</a>
+<a href="https://github.com/NgTrgGiang/NgTrgGiang/blob/main/README.md">English</a> &nbsp;·&nbsp; <b>Tiếng Việt</b>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=640&height=52&lines=Nguyen+Truong+Giang;AI+%2F+LLM+Engineer+%C2%B7+RAG+specialist;From+prototype+to+production" alt="Nguyen Truong Giang - AI/LLM Engineer, RAG specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=34D399&center=true&vCenter=true&width=640&height=52&lines=Nguy%E1%BB%85n+Tr%C6%B0%E1%BB%9Dng+Giang;K%E1%BB%B9+s%C6%B0+AI+%2F+LLM+%C2%B7+Chuy%C3%AAn+RAG;T%E1%BB%AB+prototype+%C4%91%E1%BA%BFn+s%E1%BA%A3n+ph%E1%BA%A9m" alt="Nguyen Truong Giang - Ky su AI/LLM, chuyen RAG" />
 </a>
 
-<p><b>I build retrieval-augmented AI that ships.</b><br/>
-<sub>Mid-level AI/LLM Engineer. I take RAG systems from prototype to production.</sub></p>
+<p><b>Mình xây dựng AI RAG chạy được thật.</b><br/>
+<sub>Kỹ sư AI/LLM (mid-level). Mình đưa hệ thống RAG từ prototype lên production.</sub></p>
 
-<p>Open to work &nbsp;·&nbsp; Based in Vietnam</p>
+<p>Đang tìm cơ hội &nbsp;·&nbsp; Việt Nam</p>
 
 <p>
   <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" /></a>
@@ -20,18 +20,18 @@
 
 ---
 
-### About
+### Giới thiệu
 
-I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented generation**. I take RAG systems from prototype to production: ingestion, chunking, retrieval, evaluation, and a reliable API. I care about eval and guardrails as much as the demo, and I favor small, well-tested systems over heavy frameworks.
+Mình là **Kỹ sư AI/LLM** (mid-level), chuyên về **retrieval-augmented generation (RAG)**. Mình đưa hệ thống RAG từ prototype lên production: ingest dữ liệu, chunking, retrieval, đánh giá (eval) và API ổn định. Mình coi trọng eval và guardrails ngang với bản demo, ưu tiên hệ thống nhỏ gọn, được kiểm thử kỹ.
 
-- RAG end to end: ingestion, retrieval, evaluation, shippable API
-- Automation with n8n and Python to remove repetitive manual work
-- Evaluation and guardrails so answers stay grounded and safe
-- Production mindset: deploy, monitor, iterate
+- RAG đầu-cuối: ingest, retrieval, đánh giá, API sẵn sàng chạy
+- Tự động hóa với n8n và Python để bỏ việc thủ công lặp lại
+- Eval và guardrails để câu trả lời bám nguồn, an toàn
+- Tư duy production: deploy, giám sát, cải tiến
 
 ---
 
-### Tech stack
+### Công nghệ
 
 **Core / RAG**
 &nbsp;
@@ -55,14 +55,14 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 
 ---
 
-### GitHub activity
+### Hoạt động GitHub
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake-dark.svg?v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg?v=1" />
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg?v=1" />
+  <img alt="Con ran an bieu do dong gop GitHub" src="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg?v=1" />
 </picture>
 
 </div>
@@ -71,9 +71,9 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 
 <div align="center">
 
-### Let's talk
+### Liên hệ
 
-I'm open to AI/LLM engineering and RAG roles.
+Mình đang tìm cơ hội về AI/LLM Engineering và RAG.
 
 <a href="mailto:ntg0356868808@gmail.com">ntg0356868808@gmail.com</a>
 
