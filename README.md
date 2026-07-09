@@ -10,7 +10,7 @@
 <p>Open to work &nbsp;·&nbsp; Based in Vietnam</p>
 
 <p>
-  <a href="mailto:chuhunganhbi@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" /></a>
+  <a href="mailto:ntg0356868808@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat&logo=gmail&logoColor=34d399" alt="Email" /></a>
   <a href="https://github.com/NgTrgGiang"><img src="https://img.shields.io/badge/GitHub-0a0a0b?style=flat&logo=github&logoColor=34d399" alt="GitHub" /></a>
   <!-- add LinkedIn / portfolio links here when ready -->
 </p>
@@ -66,9 +66,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg?v=1" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/NgTrgGiang/NgTrgGiang/output/github-snake.svg?v=1" />
 </picture>
 
 </div>
@@ -81,7 +81,7 @@
 
 **EN** I'm open to AI/LLM engineering and RAG roles. &nbsp; **VI** Mình đang tìm cơ hội về AI/LLM Engineering và RAG.
 
-<a href="mailto:chuhunganhbi@gmail.com">chuhunganhbi@gmail.com</a>
+<a href="mailto:ntg0356868808@gmail.com">ntg0356868808@gmail.com</a>
 
 </div>
 
