@@ -68,11 +68,11 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 ### Recent activity
 
 <!-- RECENT:START -->
+- **[claude-code-read](https://github.com/NgTrgGiang/claude-code-read)** &nbsp; JavaScript project &nbsp; `updated 2026-07-09`
+- **[ngtruonggiang-portfolio](https://github.com/NgTrgGiang/ngtruonggiang-portfolio)** &nbsp; TypeScript project &nbsp; `updated 2026-07-09`
+- **[test](https://github.com/NgTrgGiang/test)** &nbsp; HTML project &nbsp; `updated 2026-07-09`
 - **[demo-rag-noi-quy-cong-ty](https://github.com/NgTrgGiang/demo-rag-noi-quy-cong-ty)** &nbsp; [DEMO] Hệ thống RAG cho nội quy công ty &nbsp; `updated 2026-07-09`
 - **[dev-starter](https://github.com/NgTrgGiang/dev-starter)** &nbsp; Khung xương full-stack AI app: FastAPI + Postgres/pgvector + React/Vite/TS + Docker &nbsp; `updated 2026-07-08`
-- **[trustfed-federated-llm](https://github.com/NgTrgGiang/trustfed-federated-llm)** &nbsp; TrustFed: federated LoRA fine-tuning of a pre-trained LLM (privacy-by-design, non-IID, user-level DP) + research proposal for an RA application. &nbsp; `updated 2026-07-02`
-- **[IDSnap](https://github.com/NgTrgGiang/IDSnap)** &nbsp; JavaScript project &nbsp; `updated 2026-06-01`
-- **[AI20K-001-083](https://github.com/NgTrgGiang/AI20K-001-083)** &nbsp; No description yet &nbsp; `updated 2026-05-30`
 <!-- RECENT:END -->
 
 ---
