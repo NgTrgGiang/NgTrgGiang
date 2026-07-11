@@ -68,11 +68,11 @@ Mình là **Kỹ sư AI/LLM** (mid-level), chuyên về **retrieval-augmented ge
 ### Hoạt động gần đây
 
 <!-- RECENT:START -->
+- **[claude-code-token-saver](https://github.com/NgTrgGiang/claude-code-token-saver)** &nbsp; One-shot installer for token-saving Claude Code rails (CLAUDE.md, hooks, subagents, slash commands, dev-docs). &nbsp; `updated 2026-07-10`
 - **[claude-code-read](https://github.com/NgTrgGiang/claude-code-read)** &nbsp; JavaScript project &nbsp; `updated 2026-07-09`
 - **[ngtruonggiang-portfolio](https://github.com/NgTrgGiang/ngtruonggiang-portfolio)** &nbsp; TypeScript project &nbsp; `updated 2026-07-09`
 - **[test](https://github.com/NgTrgGiang/test)** &nbsp; HTML project &nbsp; `updated 2026-07-09`
 - **[demo-rag-noi-quy-cong-ty](https://github.com/NgTrgGiang/demo-rag-noi-quy-cong-ty)** &nbsp; [DEMO] Hệ thống RAG cho nội quy công ty &nbsp; `updated 2026-07-09`
-- **[dev-starter](https://github.com/NgTrgGiang/dev-starter)** &nbsp; Khung xương full-stack AI app: FastAPI + Postgres/pgvector + React/Vite/TS + Docker &nbsp; `updated 2026-07-08`
 <!-- RECENT:END -->
 
 ---
