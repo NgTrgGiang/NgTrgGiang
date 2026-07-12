@@ -68,7 +68,7 @@ I'm a mid-level **AI/LLM Engineer** specializing in **retrieval-augmented genera
 ### Recent activity
 
 <!-- RECENT:START -->
-- **[claude-code-token-saver](https://github.com/NgTrgGiang/claude-code-token-saver)** &nbsp; One-shot installer for token-saving Claude Code rails (CLAUDE.md, hooks, subagents, slash commands, dev-docs). &nbsp; `updated 2026-07-10`
+- **[claude-code-token-saver](https://github.com/NgTrgGiang/claude-code-token-saver)** &nbsp; One-shot installer for token-saving Claude Code rails (CLAUDE.md, hooks, subagents, slash commands, dev-docs). &nbsp; `updated 2026-07-11`
 - **[claude-code-read](https://github.com/NgTrgGiang/claude-code-read)** &nbsp; JavaScript project &nbsp; `updated 2026-07-09`
 - **[ngtruonggiang-portfolio](https://github.com/NgTrgGiang/ngtruonggiang-portfolio)** &nbsp; TypeScript project &nbsp; `updated 2026-07-09`
 - **[test](https://github.com/NgTrgGiang/test)** &nbsp; HTML project &nbsp; `updated 2026-07-09`
